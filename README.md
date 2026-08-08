@@ -28,6 +28,7 @@ To build strong programming fundamentals and maintain my learning progress throu
 - Basic Mathematical Programs
   
 ### Day 2
+
 - Arithmetic operators
 - Quotient and remainder
 - Modulus operator (%)
@@ -36,3 +37,14 @@ To build strong programming fundamentals and maintain my learning progress throu
 - Basic mathematical calculations
 - Integer division
 - Digit extraction
+
+### Day 3
+
+- if statement
+- if-else statement
+- else-if ladder
+- Nested conditions
+- Comparison operators
+- Relational operators
+
+
