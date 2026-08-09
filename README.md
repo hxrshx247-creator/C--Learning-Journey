@@ -47,4 +47,11 @@ To build strong programming fundamentals and maintain my learning progress throu
 - Comparison operators
 - Relational operators
 
+### Day 4
 
+- for loop syntax
+- Loop initialization
+- Loop condition
+- Loop increment/decrement
+- Number patterns
+- Mathematical operations using loops
