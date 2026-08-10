@@ -55,3 +55,13 @@ To build strong programming fundamentals and maintain my learning progress throu
 - Loop increment/decrement
 - Number patterns
 - Mathematical operations using loops
+
+### Day 5
+
+* while loop
+* do-while loop
+* Loop conditions
+* Increment and decrement
+* Digit manipulation
+* Number manipulation
+
