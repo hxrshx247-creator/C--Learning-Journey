@@ -30,7 +30,3 @@
 - `%` gives the remainder
 - `% 10` can be used to extract the last digit
 - Integer division behaves differently from decimal division
-
-## Day 2 Status
-
-Completed ✅

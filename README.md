@@ -65,3 +65,13 @@ To build strong programming fundamentals and maintain my learning progress throu
 * Digit manipulation
 * Number manipulation
 
+### Day 6
+
+* Function declaration and definition
+* Function parameters
+* Function arguments
+* Return values
+* `void` functions
+* Functions returning values
+* `bool` functions
+* Using functions with loops and conditions
