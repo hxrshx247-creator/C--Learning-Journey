@@ -75,3 +75,16 @@ To build strong programming fundamentals and maintain my learning progress throu
 * Functions returning values
 * `bool` functions
 * Using functions with loops and conditions
+
+### Day 7 
+
+- Array declaration and initialization
+- Array indexing
+- Accessing elements
+- Forward traversal
+- Reverse traversal
+- Taking array input
+- Finding the sum of elements
+- Finding the average
+- Finding the largest element
+- Counting even and odd elements
