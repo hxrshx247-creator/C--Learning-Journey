@@ -88,3 +88,11 @@ To build strong programming fundamentals and maintain my learning progress throu
 - Finding the average
 - Finding the largest element
 - Counting even and odd elements
+
+### Day 8 — Calculator Project 
+
+Built my first C++ mini-project in three versions:
+
+- Version 1:Basic calculator using `switch`, arithmetic operators, and `if-else`
+- Version 2: Added a `while` loop for repeated calculations and an exit option
+- Version 3: Refactored the calculator using functions, parameters, return values, and `void`
