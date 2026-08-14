@@ -96,3 +96,19 @@ Built my first C++ mini-project in three versions:
 - Version 1:Basic calculator using `switch`, arithmetic operators, and `if-else`
 - Version 2: Added a `while` loop for repeated calculations and an exit option
 - Version 3: Refactored the calculator using functions, parameters, return values, and `void`
+
+
+### Day 9 
+
+- String declaration and initialization
+- String input using `cin`
+- String input using `getline()`
+- Finding string length using `length()` and `size()`
+- String indexing
+- Accessing individual characters
+- Forward traversal of strings
+- Counting vowels
+- Counting consonants
+- Counting digits
+- Reversing a string
+- Finding character frequency
