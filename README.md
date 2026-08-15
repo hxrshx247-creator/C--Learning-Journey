@@ -112,3 +112,22 @@ Built my first C++ mini-project in three versions:
 - Counting digits
 - Reversing a string
 - Finding character frequency
+
+### Day 10
+
+- Pointer declaration
+- Address-of operator (`&`)
+- Dereference operator (`*`)
+- Storing variable addresses in pointers
+- Accessing values through pointers
+- Modifying variables using pointers
+- Swapping variables using pointers
+- Using pointers with arithmetic operations
+- Using multiple pointers
+- Pointers and arrays
+- Pointer arithmetic
+- Traversing arrays using pointers
+- Finding the largest element using pointers
+- Finding the sum of array elements using pointers
+- Counting even and odd elements using pointers
+- Reversing an array using pointers
