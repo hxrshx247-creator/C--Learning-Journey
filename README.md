@@ -131,3 +131,18 @@ Built my first C++ mini-project in three versions:
 - Finding the sum of array elements using pointers
 - Counting even and odd elements using pointers
 - Reversing an array using pointers
+
+### Day 11
+
+## Topics Covered
+
+- Passing pointers to functions
+- Modifying variables through functions
+- Swapping values using pointer parameters
+- Returning values from pointer-based functions
+- Passing arrays to functions using pointers
+- Pointer arithmetic with arrays
+- Finding largest elements using functions and pointers
+- Counting even and odd elements
+- Reversing arrays using pointers
+- Working with strings using pointers and functions
